@@ -1,7 +1,7 @@
 # DogsMeCats
 
 A new project.
-
+<img src="images/iconApp.png" width="100" />
 ## Getting Started
 
 This project is a starting point for a Swift Code application.
